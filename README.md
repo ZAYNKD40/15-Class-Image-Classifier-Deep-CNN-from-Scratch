@@ -45,4 +45,4 @@ crops + color jitter). Probabilities are averaged before argmax — no retrainin
 Python · PyTorch · torchvision · scikit-learn · matplotlib · seaborn
 
 ## To view html
-https://zaynkd40.github.io/15-Class-Image-Classifier-Deep-CNN-from-Scratch/CNN_From_Scratch.html
+https://zaynkd40.github.io/15-Class-Image-Classifier-Deep-CNN-from-Scratch/CNN_From_Scratch_final.html
